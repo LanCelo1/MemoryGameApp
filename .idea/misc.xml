@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.169" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/drawable/bg_player_one.xml" value="0.2" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/drawable/bg_player_two.xml" value="0.2015" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/drawable/continue_btn.xml" value="0.169" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.169" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/drawable/new_game_btn.xml" value="0.169" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/drawable/shape_blue.xml" value="0.228" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/drawable/splash_bg.xml" value="0.169" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/font/amarante.xml" value="0.2733333333333333" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/font/irish_grover.xml" value="0.2733333333333333" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout-land/screen_game.xml" value="0.20943562610229277" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout-land/screen_two_player.xml" value="0.20855379188712522" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout/dialog_final.xml" value="0.24739583333333334" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout/dialog_menu.xml" value="0.22826086956521738" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout/item_adapeter.xml" value="0.22826086956521738" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout/item_adapter.xml" value="0.12031408308004053" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout/screen_game.xml" value="0.2" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout/screen_menu.xml" value="0.22826086956521738" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout/screen_splash.xml" value="0.2" />
+        <entry key="..\:/1/MemoryGameApp/app/src/main/res/layout/screen_two_player.xml" value="0.264" />
+        <entry key="..\:/MemoryGameApp/app/src/main/res/font/amarante.xml" value="0.27239583333333334" />
+        <entry key="..\:/MemoryGameApp/app/src/main/res/layout/dialog_final.xml" value="0.2421875" />
+        <entry key="..\:/MemoryGameApp/app/src/main/res/layout/screen_game.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
